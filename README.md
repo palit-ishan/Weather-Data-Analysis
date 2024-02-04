@@ -1,4 +1,4 @@
-This Repo Contains Projects Done as Volunteer Research Assistant at Northeastern University, Boston for the Dept of Mechanical and Industrial Engineering.
+This Repo Contains Project Done as Volunteer Research Assistant at Northeastern University, Boston for the Dept of Mechanical and Industrial Engineering.
 
 This project will create a data pipeline to retrieve weather data from a free weather API, process it, and store it in a database for future use.
 
